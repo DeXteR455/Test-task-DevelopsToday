@@ -6,7 +6,7 @@
 ### 1. Clone the repository
 
 ```
-git clone <your-repo-url>
+git clone https://github.com/DeXteR455/Test-task-DevelopsToday.git
 cd <project-folder>
 ```
 
