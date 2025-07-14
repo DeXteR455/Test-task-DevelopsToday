@@ -58,6 +58,7 @@ npx playwright show-report
 ## .gitignore
 
 The `.gitignore` file excludes:
+
 - `node_modules/` (dependencies)
 - Playwright reports and cache
 - screenshots and test results
