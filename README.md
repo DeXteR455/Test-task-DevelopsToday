@@ -31,8 +31,8 @@ By default, tests use the public demo URL.
 To check code style and formatting:
 
 ```
-npm run lint
 npm run format
+npm run lint
 ```
 
 ### 5. Run the tests
